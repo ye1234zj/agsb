@@ -35,7 +35,7 @@ USER_NAME = "yezhenjiang"         # 用户名
 UUID = "e17a655d-b8c4-412a-a11c-ec12b80baece"                     # UUID，留空则自动生成
 PORT = 49989                   # Vmess端口，留空或0则自动生成
 DOMAIN = "zz.yezhen.ip-ddns.com"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiMjhhMjdkMDdkYTE1Y2QyNzdkMGNjNmFkMWIwMzVmNDAiLCJ0IjoiMTI0N2RkMzktOWIyMS00MzViLWJkNDEtZjQ2MWM1MjM5YmNhIiwicyI6Ik1UaGtOelF6WVdVdE9UQXhNeTAwTVdGbUxXRXdaakV0T0Raa09USTNaREV5TmpSbSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
